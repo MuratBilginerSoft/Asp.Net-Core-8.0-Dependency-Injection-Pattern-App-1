@@ -1,0 +1,33 @@
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\bin\Debug\net8.0\appsettings.json
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\bin\Debug\net8.0\Basic Math.exe
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\bin\Debug\net8.0\Basic Math.deps.json
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\bin\Debug\net8.0\Basic Math.runtimeconfig.json
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\bin\Debug\net8.0\Basic Math.dll
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\bin\Debug\net8.0\Basic Math.pdb
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\Basic Math.csproj.AssemblyReference.cache
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\Basic Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\Basic Math.AssemblyInfoInputs.cache
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\Basic Math.AssemblyInfo.cs
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\Basic Math.csproj.CoreCompileInputs.cache
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\Basic Math.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\Basic Math.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\Basic Math.sourcelink.json
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\staticwebassets\msbuild.Basic Math.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\staticwebassets\msbuild.build.Basic Math.props
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Basic Math.props
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Basic Math.props
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\scopedcss\bundle\Basic Math.styles.css
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\Basic Math.csproj.Up2Date
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\Basic Math.dll
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\refint\Basic Math.dll
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\Basic Math.pdb
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\Basic Math.genruntimeconfig.cache
+C:\Users\merye\OneDrive\Masaüstü\Desktop\04 Projects\Asp.Net-Core-8.0-Dependency-Injection-Pattern-App-1\Basic Math\Basic Math\obj\Debug\net8.0\ref\Basic Math.dll
